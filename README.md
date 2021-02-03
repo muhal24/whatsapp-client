@@ -1,4 +1,4 @@
-# whatsapp-mern
+# whatsapp-client
 WhatsApp web clone client side by react js
 
 <h1>Screenshot</h1>
